@@ -7,8 +7,11 @@ the ease of its usage by every age group users.
 
 <p float="left">
  <img src="https://github.com/bishal3421/Call-For-Help/blob/master/Home_Page.jpg" width="200" height="400" />
-<img src="https://github.com/arsltech/COVID-19Tracker/blob/master/image2.jpg" width="200" height="400" />
-<img src="https://github.com/arsltech/COVID-19Tracker/blob/master/image3.jpg" width="200" height="400" />
+<img src="https://github.com/bishal3421/Call-For-Help/blob/master/HP2.jpg" width="200" height="400" />
+<img src="https://github.com/bishal3421/Call-For-Help/blob/master/HP3.jpg" width="200" height="400" />
+ <img src="https://github.com/bishal3421/Call-For-Help/blob/master/IBM_chatbot.jpg" width="200" height="400" />
+ <img src="https://github.com/bishal3421/Call-For-Help/blob/master/list_countries.jpg" width="200" height="400" />
+ <img src="https://github.com/bishal3421/Call-For-Help/blob/master/details.jpg" width="200" height="400" />
 </p>
 
 # Short Description
@@ -40,6 +43,9 @@ chat bot and useful informations regarding Covid-19 that may help in combating w
 
 # Architecture
 
+<p float="left">
+ <img src="https://github.com/bishal3421/Call-For-Help/blob/master/Architecture.png" width="400" height="350" />
+</p>
 
 # Long Description
 
@@ -78,6 +84,11 @@ converted to string format using volley library and its functions. The multi-sou
 
 # Project Road map
 
+<p float="left">
+ <img src="https://github.com/bishal3421/Call-For-Help/blob/master/Roadmap.png" width="400" height="350" />
+</p>
+
+
 # Demo Video
 
 https://youtu.be/Ij1JcJ7-unQ
@@ -96,13 +107,13 @@ https://youtu.be/MvX1LHZwwHM
 *WordPress
 
 # Team Details
-*Team Name : X-Code
-*Team Members: 1) Bishal Kumar Sah
-                  samthom104@gmail.com
-*Team Members: 2) Niranjan Yadav
-                  niranjan2055@gmail.com
-*Team Members: 3) Rohitashav Soni
-                  sonirohitashav40@gmail.com
+1. Team Name : X-Code
+2. Team Members: 1) Bishal Kumar Sah
+3.                  samthom104@gmail.com
+4. Team Members: 2) Niranjan Yadav
+5.                  niranjan2055@gmail.com
+6. Team Members: 3) Rohitashav Soni
+7.                  sonirohitashav40@gmail.com
 # Acknowledgement
 We would like to thank International Business Machines (IBM) Corporation for providing us the opportunity to participate in the Call for Code
 2020 Challenge. It was such a great experience to have interacted with the Hackathon co-ordinators and be able to use such amazing tools
