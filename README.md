@@ -44,7 +44,7 @@ chat bot and useful informations regarding Covid-19 that may help in combating w
 # Architecture
 
 <p float="left">
- <img src="https://github.com/bishal3421/Call-For-Help/blob/master/Architecture.png" width="400" height="350" />
+ <img src="https://github.com/bishal3421/Call-For-Help/blob/master/Architecture.png" />
 </p>
 
 # Long Description
