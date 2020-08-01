@@ -85,7 +85,7 @@ converted to string format using volley library and its functions. The multi-sou
 # Project Road map
 
 <p float="left">
- <img src="https://github.com/bishal3421/Call-For-Help/blob/master/Roadmap.png" width="400" height="350" />
+ <img src="https://github.com/bishal3421/Call-For-Help/blob/master/Roadmap.png" />
 </p>
 
 
@@ -99,21 +99,21 @@ https://youtu.be/MvX1LHZwwHM
 
 # Built with
 
-*IBM Watson Assistant along with
- Watson Text-to-Speech and Speech-to-Text 
-*Android Studio
-*JAVA
-*Rest API and Volley library
-*WordPress
+- IBM Watson Assistant along with
+       Watson Text-to-Speech and Speech-to-Text 
+- Android Studio
+- JAVA
+- Rest API and Volley library
+- WordPress
 
 # Team Details
 1. Team Name : X-Code
-2. Team Members: 1) Bishal Kumar Sah
-3.                  samthom104@gmail.com
-4. Team Members: 2) Niranjan Yadav
-5.                  niranjan2055@gmail.com
-6. Team Members: 3) Rohitashav Soni
-7.                  sonirohitashav40@gmail.com
+2. Members: 1) Bishal Kumar Sah
+3. Email :     samthom104@gmail.com
+4. Members: 2) Niranjan Yadav
+5. Email :     niranjan2055@gmail.com
+6. Members: 3) Rohitashav Soni
+7. Email :     sonirohitashav40@gmail.com
 # Acknowledgement
 We would like to thank International Business Machines (IBM) Corporation for providing us the opportunity to participate in the Call for Code
 2020 Challenge. It was such a great experience to have interacted with the Hackathon co-ordinators and be able to use such amazing tools
